@@ -172,4 +172,4 @@ The recognizable commands by the interpreter are the following:
 
 Abban Bismark| Email: [bismarkabban](mailto:ebukweku@gmail.com.com) 
 
-Ukeme Gabriel | Email: [otoobongekim](mailto:ukemegabriel1@gmail.com)
+Ukeme Gabriel | Email: [ukemegabriel](mailto:ukemegabriel1@gmail.com)
